@@ -19,6 +19,10 @@
   [Демо](https://my-food-project-ten.vercel.app/) | [Код](https://github.com/Guseyn9/my-food-project)
 - **MiniAppTg** — мини-приложение для телеграмм платформы  
   [Демо](https://mini-app-tg-nu.vercel.app/) | [Код](https://github.com/Guseyn9/Mini-App-Tg/)
+- **W-wawe** — музыкальный сайт с приятным дизайном и анимациями  
+  [Демо](https://w-wawe-cyan.vercel.app/) | [Код](https://github.com/Guseyn9/W-wawe)
+- **High-pass** — сайт для любителей кино-фильмов, собранный с помощью Gulp сборки   
+  [Демо](https://high-pass-snowy.vercel.app/) | [Код](https://github.com/Guseyn9/High-pass)
 - **Rocont** — приятный сайт с JavaScript анимациями  
   [Демо](https://rocont-project.vercel.app/) | [Код](https://github.com/Guseyn9/Rocont-project)
 
