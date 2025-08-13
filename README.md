@@ -17,8 +17,10 @@
   [Демо этого проекта](https://lagoona-one.vercel.app/)
 - **Food-project** — мини интернет магазин на state manager Redux-Toolkit  
   [Демо](https://my-food-project-ten.vercel.app/) | [Код](https://github.com/Guseyn9/Food-project)
-- **Lagoona** — красивый сайт для сети отелей  
-  [Демо](https://demo-link.com) | [Код](https://github.com/username/crypto-dashboard)
+- **MiniAppTg** — мини-приложение для телеграмм платформы  
+  [Демо](https://mini-app-tg-nu.vercel.app/) | [Код](https://github.com/Guseyn9/Mini-App-Tg/)
+- **Rocont** — приятный сайт с JavaScript анимациями  
+  [Демо](https://rocont-project.vercel.app/) | [Код](https://github.com/Guseyn9/Rocont-project)
 
 ---
 
